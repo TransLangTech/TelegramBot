@@ -1,0 +1,759 @@
+[
+    {
+      "word": "regularly",
+      "translations": ["düzenli olarak"]
+    },
+    {
+      "word": "measurement",
+      "translations": ["ölçüm"]
+    },
+    {
+      "word": "properly",
+      "translations": ["düzgün bir şekilde"]
+    },
+    {
+      "word": "current",
+      "translations": ["mevcut"]
+    },
+    {
+      "word": "prediction",
+      "translations": ["tahmin"]
+    },
+    {
+      "word": "approve",
+      "translations": ["onaylamak"]
+    },
+    {
+      "word": "significant",
+      "translations": ["önemli"]
+    },
+    {
+      "word": "generalisation",
+      "translations": ["genelleme"]
+    },
+    {
+      "word": "necessity",
+      "translations": ["gereklilik"]
+    },
+    {
+      "word": "perform",
+      "translations": ["yerine getirmek"]
+    },
+    {
+      "word": "credible",
+      "translations": ["güvenilir"]
+    },
+    {
+      "word": "vaguely",
+      "translations": ["belirsiz bir şekilde"]
+    },
+    {
+      "word": "accurately",
+      "translations": ["doğru bir şekilde"]
+    },
+    {
+      "word": "reset",
+      "translations": ["sıfırlamak"]
+    },
+    {
+      "word": "complain",
+      "translations": ["şikayet etmek"]
+    },
+    {
+      "word": "validity",
+      "translations": ["geçerlilik"]
+    },
+    {
+      "word": "widely",
+      "translations": ["geniş ölçüde"]
+    },
+    {
+      "word": "formally",
+      "translations": ["resmi olarak"]
+    },
+    {
+      "word": "convertible",
+      "translations": ["dönüştürülebilir"]
+    },
+    {
+      "word": "pattern",
+      "translations": ["desen"]
+    },
+    {
+      "word": "gradually",
+      "translations": ["kademeli olarak"]
+    },
+    {
+      "word": "anniversary",
+      "translations": ["yıldönümü"]
+    },
+    {
+      "word": "improvement",
+      "translations": ["iyileştirme"]
+    },
+    {
+      "word": "foster",
+      "translations": ["beslemek"]
+    },
+    {
+      "word": "invent",
+      "translations": ["icat etmek"]
+    },
+    {
+      "word": "plentifully",
+      "translations": ["bol bol"]
+    },
+    {
+      "word": "breed",
+      "translations": ["üretmek"]
+    },
+    {
+      "word": "rarely",
+      "translations": ["nadiren"]
+    },
+    {
+      "word": "exceedingly",
+      "translations": ["son derece"]
+    },
+    {
+      "word": "urgently",
+      "translations": ["acil olarak"]
+    },
+    {
+      "word": "accessible",
+      "translations": ["erişilebilir"]
+    },
+    {
+      "word": "invariably",
+      "translations": ["değişmez bir şekilde"]
+    },
+    {
+      "word": "inconvenience",
+      "translations": ["rahatsızlık"]
+    },
+    {
+      "word": "correctly",
+      "translations": ["doğru bir şekilde"]
+    },
+    {
+      "word": "destruction",
+      "translations": ["yıkım"]
+    },
+    {
+      "word": "anguish",
+      "translations": ["ızdırap"]
+    },
+    {
+      "word": "excavate",
+      "translations": ["kazmak"]
+    },
+    {
+      "word": "considerable",
+      "translations": ["önemli ölçüde"]
+    },
+    {
+      "word": "variance",
+      "translations": ["farklılık"]
+    },
+    {
+      "word": "injure",
+      "translations": ["yaralamak"]
+    },
+    {
+      "word": "trait",
+      "translations": ["özellik"]
+    },
+    {
+      "word": "insufficiency",
+      "translations": ["yetersizlik"]
+    },
+    {
+      "word": "honestly",
+      "translations": ["dürüstçe"]
+    },
+    {
+      "word": "consequence",
+      "translations": ["sonuç"]
+    },
+    {
+      "word": "sustainable",
+      "translations": ["sürdürülebilir"]
+    },
+    {
+      "word": "acceptability",
+      "translations": ["kabul edilebilirlik"]
+    },
+    {
+      "word": "intervention",
+      "translations": ["müdahale"]
+    },
+    {
+      "word": "fail",
+      "translations": ["başarısız olmak"]
+    },
+    {
+      "word": "simultaneous",
+      "translations": ["eşzamanlı"]
+    },
+    {
+      "word": "coherently",
+      "translations": ["tutarlı bir şekilde"]
+    },
+    {
+      "word": "recession",
+      "translations": ["durgunluk"]
+    },
+    {
+      "word": "attribute",
+      "translations": ["özellik"]
+    },
+    {
+      "word": "consume",
+      "translations": ["tüketmek"]
+    },
+    {
+      "word": "inevitably",
+      "translations": ["kaçınılmaz bir şekilde"]
+    },
+    {
+      "word": "resistance",
+      "translations": ["direnç"]
+    },
+    {
+      "word": "approach",
+      "translations": ["yaklaşım"]
+    },
+    {
+      "word": "raised",
+      "translations": ["yükseltilmiş"]
+    },
+    {
+      "word": "memory",
+      "translations": ["hafıza"]
+    },
+    {
+      "word": "appeal",
+      "translations": ["çekicilik"]
+    },
+    {
+      "word": "suspension",
+      "translations": ["askıya alma"]
+    },
+    {
+      "word": "implicitly",
+      "translations": ["üstü kapalı olarak"]
+    },
+    {
+      "word": "appropriate",
+      "translations": ["uygun"]
+    },
+    {
+      "word": "selfishly",
+      "translations": ["bencilce"]
+    },
+    {
+      "word": "task",
+      "translations": ["görev"]
+    },
+    {
+      "word": "available",
+      "translations": ["mevcut"]
+    },
+    {
+      "word": "spiritual",
+      "translations": ["ruhsal"]
+    },
+    {
+      "word": "cautionary",
+      "translations": ["uyarıcı"]
+    },
+    {
+      "word": "ambiguous",
+      "translations": ["belirsiz"]
+    },
+    {
+      "word": "narrow",
+      "translations": ["dar"]
+    },
+    {
+      "word": "transmit",
+      "translations": ["iletmek"]
+    },
+    {
+      "word": "peculiar",
+      "translations": ["tuhaf"]
+    },
+    {
+      "word": "substantially",
+      "translations": ["büyük ölçüde"]
+    },
+    {
+      "word": "rebellion",
+      "translations": ["isyan"]
+    },
+    {
+      "word": "elaborate",
+      "translations": ["ayrıntılı"]
+    },
+    {
+      "word": "conformity",
+      "translations": ["uyum"]
+    },
+    {
+      "word": "functions",
+      "translations": ["işlevler"]
+    },
+    {
+      "word": "prevent",
+      "translations": ["önlemek"]
+    },
+    {
+      "word": "suspend",
+      "translations": ["askıya almak"]
+    },
+    {
+      "word": "delete",
+      "translations": ["silmek"]
+    },
+    {
+      "word": "openly",
+      "translations": ["açıkça"]
+    },
+    {
+      "word": "extensively",
+      "translations": ["kapsamlı bir şekilde"]
+    },
+    {
+      "word": "mandatory",
+      "translations": ["zorunlu"]
+    },
+    {
+      "word": "measuring",
+      "translations": ["ölçme"]
+    },
+    {
+      "word": "unconsciously",
+      "translations": ["bilinçsizce"]
+    },
+    {
+      "word": "successful",
+      "translations": ["başarılı"]
+    },
+    {
+      "word": "irreversibly",
+      "translations": ["geri dönüşsüz bir şekilde"]
+    },
+    {
+      "word": "nevertheless",
+      "translations": ["yine de"]
+    },
+    {
+      "word": "subsequently",
+      "translations": ["sonrasında"]
+    },
+    {
+      "word": "precedence",
+      "translations": ["öncelik"]
+    },
+    {
+      "word": "resolution",
+      "translations": ["çözüm"]
+    },
+    {
+      "word": "thick",
+      "translations": ["kalın"]
+    },
+    {
+      "word": "tidy",
+      "translations": ["düzenli"]
+    },
+    {
+      "word": "obstacle",
+      "translations": ["engel"]
+    },
+    {
+      "word": "proximity",
+      "translations": ["yakınlık"]
+    },
+    {
+      "word": "invitation",
+      "translations": ["davet"]
+    },
+    {
+      "word": "harmful",
+      "translations": ["zararlı"]
+    },
+    {
+      "word": "identification",
+      "translations": ["tanımlama"]
+    },
+    {
+      "word": "invalid",
+      "translations": ["geçersiz"]
+    },
+    {
+      "word": "trigger",
+      "translations": ["tetiklemek"]
+    },
+    {
+      "word": "secondary",
+      "translations": ["ikincil"]
+    },
+    {
+      "word": "incidence",
+      "translations": ["olay"]
+    },
+    {
+      "word": "leading",
+      "translations": ["öncülük eden"]
+    },
+    {
+      "word": "sufficiency",
+      "translations": ["yeterlilik"]
+    },
+    {
+      "word": "hardly",
+      "translations": ["zar zor"]
+    },
+    {
+      "word": "acquisition",
+      "translations": ["edinim"]
+    },
+    {
+      "word": "exclude",
+      "translations": ["hariç tutmak"]
+    },
+    {
+      "word": "irrationally",
+      "translations": ["irrasyonel bir şekilde"]
+    },
+    {
+      "word": "regulation",
+      "translations": ["düzenleme"]
+    },
+    {
+      "word": "indifferent",
+      "translations": ["ilgisiz"]
+    },
+    {
+      "word": "envelope",
+      "translations": ["zarf"]
+    },
+    {
+      "word": "exposure",
+      "translations": ["maruz kalma"]
+    },
+    {
+      "word": "epidemic",
+      "translations": ["salgın"]
+    },
+    {
+      "word": "preserve",
+      "translations": ["korumak"]
+    },
+    {
+      "word": "fluctuation",
+      "translations": ["dalgalanma"]
+    },
+    {
+      "word": "erroneous",
+      "translations": ["hatalı"]
+    },
+    {
+      "word": "efficient",
+      "translations": ["verimli"]
+    },
+    {
+      "word": "attitude",
+      "translations": ["tutum"]
+    },
+    {
+      "word": "disrupt",
+      "translations": ["bozmak"]
+    },
+    {
+      "word": "anticipation",
+      "translations": ["beklenti"]
+    },
+    {
+      "word": "dissolve",
+      "translations": ["çözmek"]
+    },
+    {
+      "word": "familiarity",
+      "translations": ["aşinalık"]
+    },
+    {
+      "word": "fairly",
+      "translations": ["adil bir şekilde"]
+    },
+    {
+      "word": "widespread",
+      "translations": ["yaygın"]
+    },
+    {
+      "word": "regulate",
+      "translations": ["düzenlemek"]
+    },
+    {
+      "word": "feature",
+      "translations": ["özellik"]
+    },
+    {
+      "word": "recently",
+      "translations": ["son zamanlarda"]
+    },
+    {
+      "word": "accidentally",
+      "translations": ["kazara"]
+    },
+    {
+      "word": "broadly",
+      "translations": ["geniş ölçüde"]
+    },
+    {
+      "word": "delete",
+      "translations": ["silmek"]
+    },
+    {
+      "word": "insight",
+      "translations": ["içgörü"]
+    },
+    {
+      "word": "certainty",
+      "translations": ["kesinlik"]
+    },
+    {
+      "word": "distribution",
+      "translations": ["dağıtım"]
+    },
+    {
+      "word": "sustain",
+      "translations": ["sürdürmek"]
+    },
+    {
+      "word": "affluent",
+      "translations": ["zengin"]
+    },
+    {
+      "word": "abundance",
+      "translations": ["bolluk"]
+    },
+    {
+      "word": "enslavement",
+      "translations": ["köleleştirme"]
+    },
+    {
+      "word": "array",
+      "translations": ["dizi"]
+    },
+    {
+      "word": "extinction",
+      "translations": ["yok olma"]
+    },
+    {
+      "word": "hypothesis",
+      "translations": ["hipotez"]
+    },
+    {
+      "word": "adequate",
+      "translations": ["yeterli"]
+    },
+    {
+      "word": "sufficient",
+      "translations": ["yeterli"]
+    },
+    {
+      "word": "notoriously",
+      "translations": ["adı çıkmış"]
+    },
+    {
+      "word": "domestication",
+      "translations": ["evcilleştirme"]
+    },
+    {
+      "word": "inevitable",
+      "translations": ["kaçınılmaz"]
+    },
+    {
+      "word": "revival",
+      "translations": ["canlanma"]
+    },
+    {
+      "word": "remarkable",
+      "translations": ["dikkat çekici"]
+    },
+    {
+      "word": "succession",
+      "translations": ["ardışıklık"]
+    },
+    {
+      "word": "shortly",
+      "translations": ["kısa süre içinde"]
+    },
+    {
+      "word": "obligatory",
+      "translations": ["zorunlu"]
+    },
+    {
+      "word": "emphatic",
+      "translations": ["vurgulu"]
+    },
+    {
+      "word": "appreciation",
+      "translations": ["takdir"]
+    },
+    {
+      "word": "attempt",
+      "translations": ["girişimde bulunmak"]
+    },
+    {
+      "word": "contrast",
+      "translations": ["zıtlık"]
+    },
+    {
+      "word": "abandon",
+      "translations": ["terk etmek"]
+    },
+    {
+      "word": "credible",
+      "translations": ["güvenilir"]
+    },
+    {
+      "word": "misinterpret",
+      "translations": ["yanlış yorumlamak"]
+    },
+    {
+      "word": "adequate",
+      "translations": ["yeterli"]
+    },
+    {
+      "word": "enslavement",
+      "translations": ["köleleştirme"]
+    },
+    {
+      "word": "variety",
+      "translations": ["çeşitlilik"]
+    },
+    {
+      "word": "discipline",
+      "translations": ["disiplin"]
+    },
+    {
+      "word": "adequately",
+      "translations": ["yeterli derecede"]
+    },
+    {
+      "word": "practically",
+      "translations": ["pratik olarak"]
+    },
+    {
+      "word": "exaggerate",
+      "translations": ["abartmak"]
+    },
+    {
+      "word": "hospitable",
+      "translations": ["misafirperver"]
+    },
+    {
+      "word": "dominate",
+      "translations": ["hakim olmak"]
+    },
+    {
+      "word": "favorably",
+      "translations": ["olumlu olarak"]
+    },
+    {
+      "word": "affordable",
+      "translations": ["satın alınabilir"]
+    },
+    {
+      "word": "nonetheless",
+      "translations": ["buna rağmen"]
+    },
+    {
+      "word": "ambitious",
+      "translations": ["hırslı"]
+    },
+    {
+      "word": "vividly",
+      "translations": ["canlı bir şekilde"]
+    },
+    {
+      "word": "precisely",
+      "translations": ["tam olarak"]
+    },
+    {
+      "word": "reversible",
+      "translations": ["tersine çevrilebilir"]
+    },
+    {
+      "word": "presumably",
+      "translations": ["muhtemelen"]
+    },
+    {
+      "word": "accurately",
+      "translations": ["doğru bir şekilde"]
+    },
+    {
+      "word": "voluntarily",
+      "translations": ["gönüllü olarak"]
+    },
+    {
+      "word": "curiosity",
+      "translations": ["merak"]
+    },
+    {
+      "word": "traceable",
+      "translations": ["izlenebilir"]
+    },
+    {
+      "word": "plentiful",
+      "translations": ["bol"]
+    },
+    {
+      "word": "confident",
+      "translations": ["kendine güvenen"]
+    },
+    {
+      "word": "expensive",
+      "translations": ["pahalı"]
+    },
+    {
+      "word": "believe",
+      "translations": ["inanmak"]
+    },
+    {
+      "word": "deeply",
+      "translations": ["derinden"]
+    },
+    {
+      "word": "objective",
+      "translations": ["nesnel"]
+    },
+    {
+      "word": "enormous",
+      "translations": ["büyük"]
+    },
+    {
+      "word": "careful",
+      "translations": ["dikkatli"]
+    },
+    {
+      "word": "vivid",
+      "translations": ["canlı"]
+    },
+    {
+      "word": "harm",
+      "translations": ["zarar"]
+    },
+    {
+      "word": "ambition",
+      "translations": ["hırs"]
+    },
+    {
+      "word": "expensive",
+      "translations": ["pahalı"]
+    }
+  ]
+  
